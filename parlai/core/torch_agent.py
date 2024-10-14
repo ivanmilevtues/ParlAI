@@ -1845,6 +1845,7 @@ class TorchAgent(ABC, Agent):
             self.__expecting_to_reply = True
 
         # keep around the observation for updating history based on label
+        # import pdb; pdb.set_trace()
         self.observation = observation
 
         # possibly change tokenization methodology based on if this is a
@@ -2153,7 +2154,6 @@ class TorchAgent(ABC, Agent):
         """
         # BatchWorld handles calling self_observe, but we're in a Hogwild or Interactive
         # world, so we need to handle this ourselves.
-
         response = self.batch_act([self.observation])[0]
         self.self_observe(response)
         return response
@@ -2178,7 +2178,6 @@ class TorchAgent(ABC, Agent):
         """
         # clear local metrics before anything else
         self._local_metrics.clear()
-
         # create a batch from the vectors
         if isinstance(observations, Batch):
             # it may already be batchified by a background worker

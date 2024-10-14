@@ -1,0 +1,653 @@
+Who succeeded Sir Rajendra Singh as the Maharaj Rana of Jhalawar?	Sir Rajendra Singh	His son Virendra Singh (Harish Chandra) succeeded him.	1
+Who succeeded Sir Rajendra Singh as the Maharaj Rana of Jhalawar?	Sir Rajendra Singh	He was succeeded by his brother.	0
+Who succeeded Sir Rajendra Singh as the Maharaj Rana of Jhalawar?	Sir Rajendra Singh	His wife Hira Kunverba took over the reign.	0
+Who succeeded Sir Rajendra Singh as the Maharaj Rana of Jhalawar?	Sir Rajendra Singh	The throne was left vacant after his death.	0
+What are some characteristics of European horror films compared to American horror films?	Horror films of Europe	European horror films are often more erotic and stranger than their American counterparts.	1
+What are some characteristics of European horror films compared to American horror films?	Horror films of Europe	European horror films focus on narrative logic similar to American genre films.	0
+What are some characteristics of European horror films compared to American horror films?	Horror films of Europe	European horror films draw from distinctly European cultural sources like surrealism and romanticism.	1
+What are some characteristics of European horror films compared to American horror films?	Horror films of Europe	European horror films are primarily interested in the deduction of murder mysteries.	0
+What are some characteristics of European horror films compared to American horror films?	Horror films of Europe	European horror films emerged predominantly in the United States at drive-in theatres.	0
+What was the outcome of the Battle of Bila Tserkva in 1626?	Battle of Bila Tserkva (1626)	The Polish–Lithuanian Commonwealth troops were defeated by the Crimean Khanate.	0
+What was the outcome of the Battle of Bila Tserkva in 1626?	Battle of Bila Tserkva (1626)	The Tatar troops were completely defeated, losing about a thousand dead and several banners.	1
+What was the outcome of the Battle of Bila Tserkva in 1626?	Battle of Bila Tserkva (1626)	The battle ended in a stalemate with heavy losses on both sides.	0
+What was the outcome of the Battle of Bila Tserkva in 1626?	Battle of Bila Tserkva (1626)	The Polish–Lithuanian Commonwealth troops captured many prisoners and lost only 40 dead.	1
+What was the outcome of the Battle of Bila Tserkva in 1626?	Battle of Bila Tserkva (1626)	The Crimean Khanate successfully invaded and occupied Ukrainian lands.	0
+What was Abraham E. Michelbacher's area of specialization in entomology?	Abraham E. Michelbacher	He specialized in the study of the Symphyla and other Myriapoda.	1
+What was Abraham E. Michelbacher's area of specialization in entomology?	Abraham E. Michelbacher	He was known for his work on the systematics of Symphyla.	1
+What was Abraham E. Michelbacher's area of specialization in entomology?	Abraham E. Michelbacher	He focused on the study of butterflies and moths.	0
+What was Abraham E. Michelbacher's area of specialization in entomology?	Abraham E. Michelbacher	His research was primarily on the management of insects in agriculture.	0
+What was Abraham E. Michelbacher's area of specialization in entomology?	Abraham E. Michelbacher	He was an expert in marine biology.	0
+What political position did Vyacheslav Kutovyi hold from 2012 to 2014?	Vyacheslav Kutovyi	He was a People's Deputy of Ukraine of the 7th Convocation.	1
+What political position did Vyacheslav Kutovyi hold from 2012 to 2014?	Vyacheslav Kutovyi	He was the President of Ukraine.	0
+What political position did Vyacheslav Kutovyi hold from 2012 to 2014?	Vyacheslav Kutovyi	He served as a deputy of the Vyshneve City Council.	0
+What political position did Vyacheslav Kutovyi hold from 2012 to 2014?	Vyacheslav Kutovyi	He was the Prime Minister of Ukraine.	0
+What political position did Vyacheslav Kutovyi hold from 2012 to 2014?	Vyacheslav Kutovyi	He was Chairman of the Subcommittee on Gas Industry Issues.	1
+Which teams has Nicole Arcangeli played for?	Nicole Arcangeli	Nicole Arcangeli has played for Sampdoria, Juventus, and the Italian Under-23 national team.	1
+Which teams has Nicole Arcangeli played for?	Nicole Arcangeli	Nicole Arcangeli is a basketball player.	0
+Which teams has Nicole Arcangeli played for?	Nicole Arcangeli	Nicole Arcangeli was born in 2003.	0
+Which teams has Nicole Arcangeli played for?	Nicole Arcangeli	Nicole Arcangeli plays as a goalkeeper.	0
+Which teams has Nicole Arcangeli played for?	Nicole Arcangeli	Nicole Arcangeli has played for the Italian Under-23 national team.	1
+What political roles has Anne Souyris held?	Anne Souyris	Anne Souyris has been a member of the Senate since 2023.	1
+What political roles has Anne Souyris held?	Anne Souyris	She served as a deputy mayor of Paris from 2017 to 2023.	1
+What political roles has Anne Souyris held?	Anne Souyris	Anne Souyris was a national spokesperson of The Ecologists from 2004 to 2010.	1
+What political roles has Anne Souyris held?	Anne Souyris	She has been a member of the Council of Paris since 2014.	1
+What political roles has Anne Souyris held?	Anne Souyris	Anne Souyris was a candidate for Paris's 5th constituency in the 2012 legislative election.	1
+What is the central theme of 'The Song at the Scaffold'?	The Song at the Scaffold	It portrays the loss of Christian ideals as the reason for a society's turn to madness.	1
+What is the central theme of 'The Song at the Scaffold'?	The Song at the Scaffold	It is a story about the economic struggles during the French Revolution.	0
+What is the central theme of 'The Song at the Scaffold'?	The Song at the Scaffold	The novella focuses on the political strategies of the revolutionaries.	0
+What is the central theme of 'The Song at the Scaffold'?	The Song at the Scaffold	It is a Catholic novella that emphasizes the importance of divine grace during adversity.	1
+What is the central theme of 'The Song at the Scaffold'?	The Song at the Scaffold	The story is a historical account of the French Revolution's battles.	0
+What are some of E. R. C. Davidar's contributions to wildlife conservation?	E. R. C. Davidar	He conducted the first survey of the Nilgiri tahr in 1975.	1
+What are some of E. R. C. Davidar's contributions to wildlife conservation?	E. R. C. Davidar	He was a famous wildlife photographer.	0
+What are some of E. R. C. Davidar's contributions to wildlife conservation?	E. R. C. Davidar	He founded the Sigur Nature Trust in June 2005.	1
+What are some of E. R. C. Davidar's contributions to wildlife conservation?	E. R. C. Davidar	He was a member of the Planters’ Association in the Nilgiris.	1
+What are some of E. R. C. Davidar's contributions to wildlife conservation?	E. R. C. Davidar	He was known for his work in marine biology.	0
+Which album by Skarra Mucci won Best Reggae Album in France in 2012?	Skarra Mucci	Return of the Raggamuffin	1
+Which album by Skarra Mucci won Best Reggae Album in France in 2012?	Skarra Mucci	Dub Inc	0
+Which album by Skarra Mucci won Best Reggae Album in France in 2012?	Skarra Mucci	L'Entourloop	0
+Which album by Skarra Mucci won Best Reggae Album in France in 2012?	Skarra Mucci	Calvin Davis	0
+Which album by Skarra Mucci won Best Reggae Album in France in 2012?	Skarra Mucci	France, Italy and Mexico	0
+Who is Mia Werner?	Mia Werner	Mia Werner is a German footballer who has played for RB Leipzig.	1
+Who is Mia Werner?	Mia Werner	Mia Werner is a professional tennis player.	0
+Who is Mia Werner?	Mia Werner	Mia Werner is a famous German singer.	0
+Who is Mia Werner?	Mia Werner	Mia Werner is a German footballer born on 5 August 2005.	1
+Who is Mia Werner?	Mia Werner	Mia Werner is a twin sister of Zoè Werner.	1
+What is the significance of Dashaari village?	Dashaari	Dashaari is a village in Kakori Panchayat, Lucknow district, Uttar Pradesh, India.	0
+What is the significance of Dashaari village?	Dashaari	The village is known for the iconic 'Dussehri Mother Plant', a 200-year-old tree.	1
+What is the significance of Dashaari village?	Dashaari	Dashaari is located approximately 21 kilometers from Lucknow.	0
+What is the significance of Dashaari village?	Dashaari	The village is associated with the GI-tagged Malihabadi Dusseheri Mango.	1
+What is the significance of Dashaari village?	Dashaari	Dashaari is within the Mohanlalganj constituency.	0
+What is Sebastian Hiller's research focus?	Sebastian Hiller	Sebastian Hiller uses NMR spectroscopy to investigate the structure and function of proteins.	1
+What is Sebastian Hiller's research focus?	Sebastian Hiller	He is exploring the outer membrane protein biogenesis of Gram-negative bacteria.	1
+What is Sebastian Hiller's research focus?	Sebastian Hiller	Sebastian Hiller is a German and Swiss structural biologist and biophysicist.	0
+What is Sebastian Hiller's research focus?	Sebastian Hiller	His research serves as a basis for the rational design of new antibiotics.	1
+What is Sebastian Hiller's research focus?	Sebastian Hiller	Sebastian Hiller studied Interdisciplinary Natural Sciences at ETH Zurich.	0
+What role did Hüseyin Hüsnü Özdamar play in the Turkish War of Independence?	Hüseyin Hüsnü Özdamar	He was a central figure in organizing national resistance in the Isparta region.	1
+What role did Hüseyin Hüsnü Özdamar play in the Turkish War of Independence?	Hüseyin Hüsnü Özdamar	He served as a mufti in Isparta during the war.	0
+What role did Hüseyin Hüsnü Özdamar play in the Turkish War of Independence?	Hüseyin Hüsnü Özdamar	He was a member of the Ottoman parliament during the war.	0
+What role did Hüseyin Hüsnü Özdamar play in the Turkish War of Independence?	Hüseyin Hüsnü Özdamar	He participated in the First Nazilli Congress to resist foreign occupation.	1
+What role did Hüseyin Hüsnü Özdamar play in the Turkish War of Independence?	Hüseyin Hüsnü Özdamar	He was a military commander in the Turkish War of Independence.	0
+What is the primary function of the 1st Fleet Amphibious Ship Force?	1st Fleet Fast Craft Force	To serve as the first strike force or neutralize enemy surface ships.	1
+What is the primary function of the 1st Fleet Amphibious Ship Force?	1st Fleet Fast Craft Force	To conduct humanitarian missions and provide disaster relief.	0
+What is the primary function of the 1st Fleet Amphibious Ship Force?	1st Fleet Fast Craft Force	To engage in air defense against enemy attacks.	0
+What is the primary function of the 1st Fleet Amphibious Ship Force?	1st Fleet Fast Craft Force	To perform reconnaissance and target search operations.	0
+What is the primary function of the 1st Fleet Amphibious Ship Force?	1st Fleet Fast Craft Force	To transport goods and personnel across the sea.	0
+Who is the head coach of the 2024-25 UTSA Roadrunners men's basketball team?	2024–25 UTSA Roadrunners men's basketball team	Austin Claunch	1
+Who is the head coach of the 2024-25 UTSA Roadrunners men's basketball team?	2024–25 UTSA Roadrunners men's basketball team	The Roadrunners finished the 2023-24 season 11-21.	0
+Who is the head coach of the 2024-25 UTSA Roadrunners men's basketball team?	2024–25 UTSA Roadrunners men's basketball team	The team plays their home games at Convocation Center.	0
+Who is the head coach of the 2024-25 UTSA Roadrunners men's basketball team?	2024–25 UTSA Roadrunners men's basketball team	The Roadrunners are members of the American Athletic Conference.	0
+Who is the head coach of the 2024-25 UTSA Roadrunners men's basketball team?	2024–25 UTSA Roadrunners men's basketball team	The head coach is Austin Claunch, in his 1st year.	1
+Who directed the film Black Ace?	Black Ace (film)	Fernando Méndez directed the film Black Ace.	1
+Who directed the film Black Ace?	Black Ace (film)	Antonio Badú directed the film Black Ace.	0
+Who directed the film Black Ace?	Black Ace (film)	The film Black Ace was directed by Ramón Rodríguez Granada.	0
+Who directed the film Black Ace?	Black Ace (film)	Fernando Méndez was the director of Black Ace.	1
+Who directed the film Black Ace?	Black Ace (film)	Meche Barba directed the film Black Ace.	0
+What is the administrative center of Drabiv settlement hromada?	Drabiv settlement hromada	The administrative center is the rural settlement of Drabiv.	1
+What is the administrative center of Drabiv settlement hromada?	Drabiv settlement hromada	The administrative center is Zolotonosha.	0
+What is the administrative center of Drabiv settlement hromada?	Drabiv settlement hromada	The administrative center is Cherkasy.	0
+What is the administrative center of Drabiv settlement hromada?	Drabiv settlement hromada	The administrative center is Kyiv.	0
+What is the administrative center of Drabiv settlement hromada?	Drabiv settlement hromada	The administrative center is Drabiv Raion.	0
+When was The Hawaiian Gazette first published?	The Hawaiian Gazette	The Hawaiian Gazette was first published in 1865.	1
+When was The Hawaiian Gazette first published?	The Hawaiian Gazette	It was first published in 1918.	0
+When was The Hawaiian Gazette first published?	The Hawaiian Gazette	The newspaper started in 1900.	0
+When was The Hawaiian Gazette first published?	The Hawaiian Gazette	The Hawaiian Gazette began publication in 1865 and ceased in 1918.	0
+What is the content of the ED. Cope (Dinosaur) page?	ED. Cope (Dinosaur)	No content available.	1
+What is the content of the ED. Cope (Dinosaur) page?	ED. Cope (Dinosaur)	The page contains detailed information about ED. Cope's contributions to paleontology.	0
+What is the content of the ED. Cope (Dinosaur) page?	ED. Cope (Dinosaur)	It includes a list of dinosaurs discovered by ED. Cope.	0
+What is the content of the ED. Cope (Dinosaur) page?	ED. Cope (Dinosaur)	The page provides a biography of ED. Cope.	0
+What is the administrative centre of the Chyhyryn urban territorial hromada?	Chyhyryn urban hromada	The administrative centre is the city of Chyhyryn.	1
+What is the administrative centre of the Chyhyryn urban territorial hromada?	Chyhyryn urban hromada	The administrative centre is the city of Kyiv.	0
+What is the administrative centre of the Chyhyryn urban territorial hromada?	Chyhyryn urban hromada	The administrative centre is the city of Lviv.	0
+What is the administrative centre of the Chyhyryn urban territorial hromada?	Chyhyryn urban hromada	The administrative centre is the city of Cherkasy.	0
+What is the administrative centre of the Chyhyryn urban territorial hromada?	Chyhyryn urban hromada	The administrative centre is the city of Kharkiv.	0
+What significant event occurred in South Dakota in June 2024?	2024 in South Dakota	Officials issued an evacuation warning due to flooding on the Blue Earth River.	1
+What significant event occurred in South Dakota in June 2024?	2024 in South Dakota	A new governor was elected in South Dakota.	0
+What significant event occurred in South Dakota in June 2024?	2024 in South Dakota	The Rapidan Dam was breached, leading to an imminent failure condition.	1
+What significant event occurred in South Dakota in June 2024?	2024 in South Dakota	A railroad bridge connecting South Dakota and Iowa collapsed, killing two people.	1
+What significant event occurred in South Dakota in June 2024?	2024 in South Dakota	The 2024 United States presidential election took place.	0
+What information is available about Harjeet Khanduja?	Harjeet Khanduja (author)	No content available.	1
+What information is available about Harjeet Khanduja?	Harjeet Khanduja (author)	Harjeet Khanduja is a well-known author.	0
+What information is available about Harjeet Khanduja?	Harjeet Khanduja (author)	Harjeet Khanduja has written several books.	0
+What information is available about Harjeet Khanduja?	Harjeet Khanduja (author)	There is detailed information about Harjeet Khanduja's career.	0
+What information is available about Harjeet Khanduja?	Harjeet Khanduja (author)	No content available about Harjeet Khanduja.	1
+What does a vegan diet exclude?	List of vegan athletes	A vegan diet includes no animal products of any kind.	1
+What does a vegan diet exclude?	List of vegan athletes	A vegan diet includes meat and dairy products.	0
+What does a vegan diet exclude?	List of vegan athletes	A vegan diet includes fish and eggs.	0
+What does a vegan diet exclude?	List of vegan athletes	A vegan diet includes only plant-based foods.	1
+What does a vegan diet exclude?	List of vegan athletes	A vegan diet includes honey and gelatin.	0
+What does Borchaly refer to?	Borchaly	Borchaly uezd	1
+What does Borchaly refer to?	Borchaly	Borchaly sultanate	1
+What does Borchaly refer to?	Borchaly	Borchaly (carpet)	1
+What does Borchaly refer to?	Borchaly	A famous mountain range	0
+What does Borchaly refer to?	Borchaly	A type of traditional dance	0
+What is the main plot of The Minister's Daughter?	The Minister's Daughter (1943 film)	Adriana is the daughter of a factory owner who becomes a minister and she falls in love with a socialist deputy.	1
+What is the main plot of The Minister's Daughter?	The Minister's Daughter (1943 film)	The film is about a minister's daughter who becomes a famous actress.	0
+What is the main plot of The Minister's Daughter?	The Minister's Daughter (1943 film)	Adriana discovers her father is selling defective products and joins a socialist deputy to help the underprivileged.	1
+What is the main plot of The Minister's Daughter?	The Minister's Daughter (1943 film)	The Minister's Daughter is a horror film about a haunted house.	0
+What is the main plot of The Minister's Daughter?	The Minister's Daughter (1943 film)	Adriana is a minister's daughter who travels the world to promote peace.	0
+What is the content of Liparis florae?	Liparis florae	No content available.	1
+What is the content of Liparis florae?	Liparis florae	Liparis florae is a type of plant.	0
+What is the content of Liparis florae?	Liparis florae	Liparis florae is a species of orchid.	0
+What is the content of Liparis florae?	Liparis florae	The content of Liparis florae is not specified.	1
+What is the content of Liparis florae?	Liparis florae	Liparis florae is a type of animal.	0
+What position does Hala Khashoggi play in football?	Hala Khashoggi	Hala Khashoggi is a midfielder for Al-Ittihad.	0
+What position does Hala Khashoggi play in football?	Hala Khashoggi	Hala Khashoggi plays as a defender for Al-Ittihad.	1
+What position does Hala Khashoggi play in football?	Hala Khashoggi	Hala Khashoggi is a forward for the Saudi Women's Premier League.	0
+What position does Hala Khashoggi play in football?	Hala Khashoggi	Hala Khashoggi is a goalkeeper for Jeddah Eagles.	0
+What was the outcome of the Skirmish at Hanging Rock Pass?	Skirmish at Hanging Rock Pass	Union forces suffered 3 men killed, 50+ wounded, and 5 captured.	1
+What was the outcome of the Skirmish at Hanging Rock Pass?	Skirmish at Hanging Rock Pass	Confederates suffered heavy casualties and retreated.	0
+What was the outcome of the Skirmish at Hanging Rock Pass?	Skirmish at Hanging Rock Pass	Union forces remained in control of Romney after the skirmish.	0
+What was the outcome of the Skirmish at Hanging Rock Pass?	Skirmish at Hanging Rock Pass	Confederates remained in control of Romney after the skirmish.	1
+What was the outcome of the Skirmish at Hanging Rock Pass?	Skirmish at Hanging Rock Pass	The skirmish resulted in a stalemate with no clear victor.	0
+What was the electoral performance of the State for the People coalition in the 2016 parliamentary election?	State for the People (political coalition)	The coalition won 3.45% of the vote, finishing sixth and below the 5% threshold required to enter the parliament.	1
+What was the electoral performance of the State for the People coalition in the 2016 parliamentary election?	State for the People (political coalition)	State for the People won the election with a majority of seats.	0
+What was the electoral performance of the State for the People coalition in the 2016 parliamentary election?	State for the People (political coalition)	The coalition did not participate in the 2016 parliamentary election.	0
+What was the electoral performance of the State for the People coalition in the 2016 parliamentary election?	State for the People (political coalition)	State for the People was a pro-Western opposition to Georgian Dream.	0
+What was the electoral performance of the State for the People coalition in the 2016 parliamentary election?	State for the People (political coalition)	The coalition dissolved after failing to cross the 5% threshold.	1
+What position does Antonio David play?	Antonio David (footballer, born 2004)	Antonio David is a Romanian professional footballer.	0
+What position does Antonio David play?	Antonio David (footballer, born 2004)	He plays as a wing-back for Serie C club Gubbio.	1
+What position does Antonio David play?	Antonio David (footballer, born 2004)	Antonio David was born on 8 January 2004.	0
+What position does Antonio David play?	Antonio David (footballer, born 2004)	He has won the Serie C title with Cesena.	0
+What position does Antonio David play?	Antonio David (footballer, born 2004)	Antonio David plays as a forward.	0
+What is the Sanjen Valley used for?	Sanjen Valley	The Sanjen Valley is used as pasture land by nomadic peoples.	1
+What is the Sanjen Valley used for?	Sanjen Valley	It is a popular tourist destination with many hotels and resorts.	0
+What is the Sanjen Valley used for?	Sanjen Valley	The valley is a major industrial area with several factories.	0
+What is the Sanjen Valley used for?	Sanjen Valley	Nomadic peoples have used the Sanjen Valley for thousands of years for seasonal migrations.	1
+What is the Sanjen Valley used for?	Sanjen Valley	The Sanjen Valley is a densely populated urban area.	0
+What musical instruments were invented in Mesopotamia during the 3rd millennium BC?	3rd millennium BC in music	The invention of the harp and the lyre in Mesopotamia.	1
+What musical instruments were invented in Mesopotamia during the 3rd millennium BC?	3rd millennium BC in music	The invention of the castanets in Early Dynastic Egypt.	0
+What musical instruments were invented in Mesopotamia during the 3rd millennium BC?	3rd millennium BC in music	The invention of the Bull Headed Lyre of Ur, string instrument used in Mesopotamia.	1
+What musical instruments were invented in Mesopotamia during the 3rd millennium BC?	3rd millennium BC in music	The invention of the clapper in Early Dynastic Egypt.	0
+What musical instruments were invented in Mesopotamia during the 3rd millennium BC?	3rd millennium BC in music	The invention of the Lyres of Ur, a stringed musical instrument from the Early Dynastic III Period of Mesopotamia.	1
+Who won the 2024 South Carolina Republican presidential primary?	2024 in South Carolina	U.S. President Joe Biden	0
+Who won the 2024 South Carolina Republican presidential primary?	2024 in South Carolina	Donald Trump	1
+Who won the 2024 South Carolina Republican presidential primary?	2024 in South Carolina	Nikki Haley	0
+Who won the 2024 South Carolina Republican presidential primary?	2024 in South Carolina	Henry McMaster	0
+Who won the 2024 South Carolina Republican presidential primary?	2024 in South Carolina	Tropical Storm Debby	0
+What is Ranzania grahami?	Ranzania grahami	Ranzania grahami is an extinct fossil species of Slender sunfish.	1
+What is Ranzania grahami?	Ranzania grahami	Ranzania grahami is a living species of fish found in Virginia.	0
+What is Ranzania grahami?	Ranzania grahami	Ranzania grahami lived in the Middle Miocene period.	1
+What is Ranzania grahami?	Ranzania grahami	Ranzania grahami is a type of plant found in the Calvert Formation.	0
+What is Ranzania grahami?	Ranzania grahami	10 specimens of Ranzania grahami were found in Virginia.	1
+What is the content of Church Elder (Pole-Pole)?	Church Elder(Pole-Pole)	No content available.	1
+What is the content of Church Elder (Pole-Pole)?	Church Elder(Pole-Pole)	Church Elder (Pole-Pole) is a religious leader.	0
+What is the content of Church Elder (Pole-Pole)?	Church Elder(Pole-Pole)	The page provides detailed information about Church Elder (Pole-Pole).	0
+What is the content of Church Elder (Pole-Pole)?	Church Elder(Pole-Pole)	Church Elder (Pole-Pole) is a historical figure.	0
+What is the purpose of C&B News?	C&B News	C&B News is a monthly, volunteer-led print news magazine serving five neighbouring communities in south-west Edinburgh.	1
+What is the purpose of C&B News?	C&B News	C&B News is a daily newspaper covering international news.	0
+What is the purpose of C&B News?	C&B News	C&B News is a magazine focused on fashion and lifestyle.	0
+What is the purpose of C&B News?	C&B News	C&B News is a monthly publication that includes regular columns from local political representatives.	1
+What is the purpose of C&B News?	C&B News	C&B News is a sports magazine covering national sports events.	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay at the Citra Awards in the same year?	Citra Award for Best Adapted Screenplay	Gina S. Noer	1
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay at the Citra Awards in the same year?	Citra Award for Best Adapted Screenplay	Cemara's Family	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay at the Citra Awards in the same year?	Citra Award for Best Adapted Screenplay	Two Blue Stripes	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay at the Citra Awards in the same year?	Citra Award for Best Adapted Screenplay	Indonesian Film Festival	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay at the Citra Awards in the same year?	Citra Award for Best Adapted Screenplay	Piala Citra untuk Penulis Skenario Adaptasi Terbaik	0
+What was the reason for the 1982 Golan Heights Druze general strike?	Timeline of strikes in 1982	The strike was in protest of the Israeli annexation of the Golan Heights and the arrests of four community leaders.	1
+What was the reason for the 1982 Golan Heights Druze general strike?	Timeline of strikes in 1982	It was a strike by miners at the Catavi mine in Bolivia for wage increases.	0
+What was the reason for the 1982 Golan Heights Druze general strike?	Timeline of strikes in 1982	The strike was organized by the International Ladies Garment Workers Union in Chinatown, Manhattan.	0
+What was the reason for the 1982 Golan Heights Druze general strike?	Timeline of strikes in 1982	It was a strike by animators in Los Angeles over runaway productions.	0
+What was the reason for the 1982 Golan Heights Druze general strike?	Timeline of strikes in 1982	The strike was a response to the Israeli military's move to deport teachers at Bethlehem University.	0
+What is the content of The Secret of the Moonstone?	The Secret of the Moonstone	No content available.	1
+What is the content of The Secret of the Moonstone?	The Secret of the Moonstone	The Secret of the Moonstone is a mystery novel.	0
+What is the content of The Secret of the Moonstone?	The Secret of the Moonstone	The book contains a treasure map.	0
+What is the content of The Secret of the Moonstone?	The Secret of the Moonstone	It is a historical fiction set in the 19th century.	0
+What is the content of The Secret of the Moonstone?	The Secret of the Moonstone	No content is provided for The Secret of the Moonstone.	1
+Who are some notable people with the surname Hanappi?	Hanappi	Edeltraud Hanappi-Egger, an Austrian academic.	1
+Who are some notable people with the surname Hanappi?	Hanappi	Gerhard Hanappi, an Austrian footballer.	1
+Who are some notable people with the surname Hanappi?	Hanappi	Hardy Hanappi, an Austrian economist.	1
+Who are some notable people with the surname Hanappi?	Hanappi	Albert Einstein, a theoretical physicist.	0
+Who are some notable people with the surname Hanappi?	Hanappi	Wolfgang Amadeus Mozart, a famous composer.	0
+What positions has Éric Pliez held since 2020?	Éric Pliez	Éric Pliez has served as mayor of the 20th arrondissement of Paris since 2020.	1
+What positions has Éric Pliez held since 2020?	Éric Pliez	He was elected president of Paris Habitat in 2020.	1
+What positions has Éric Pliez held since 2020?	Éric Pliez	He served as president of Aurore from 2001 to 2020.	0
+What positions has Éric Pliez held since 2020?	Éric Pliez	He has been a member of the Council of Paris and the metropolitan council of Grand Paris since 2020.	1
+What positions has Éric Pliez held since 2020?	Éric Pliez	He served as president of the SAMU Social of Paris from 2013 to 2019.	0
+What genre of music did Solo Banton switch to?	Solo Banton	Solo Banton switched to reggae music.	1
+What genre of music did Solo Banton switch to?	Solo Banton	He switched to classical music.	0
+What genre of music did Solo Banton switch to?	Solo Banton	Solo Banton switched to jazz music.	0
+What genre of music did Solo Banton switch to?	Solo Banton	He switched to rock music.	0
+What genre of music did Solo Banton switch to?	Solo Banton	Solo Banton switched to reggae music after being active in the UK hip hop scene.	1
+What notable achievement did Henry Fry accomplish during the 1934 Home Nations campaign?	Henry Fry (rugby union)	He scored two tries in England's win over Ireland at Landsdowne Road.	1
+What notable achievement did Henry Fry accomplish during the 1934 Home Nations campaign?	Henry Fry (rugby union)	He was the captain of the England rugby team.	0
+What notable achievement did Henry Fry accomplish during the 1934 Home Nations campaign?	Henry Fry (rugby union)	He played as a fullback for the England team.	0
+What notable achievement did Henry Fry accomplish during the 1934 Home Nations campaign?	Henry Fry (rugby union)	He was awarded the Player of the Tournament.	0
+What notable achievement did Henry Fry accomplish during the 1934 Home Nations campaign?	Henry Fry (rugby union)	He scored five tries in a club match with Waterloo.	0
+Who is Merril Bainbridge?	Merril	Judith Merril was an American and Canadian science fiction writer.	0
+Who is Merril Bainbridge?	Merril	Merril Bainbridge is an Australian singer and songwriter.	1
+Who is Merril Bainbridge?	Merril	Merril Hoge is an American football player.	0
+Who is Merril Bainbridge?	Merril	Merril Sandoval was a U.S Marine and Navajo code talker.	0
+Who is Merril Bainbridge?	Merril	Merril Bainbridge is a Guyanese cricketer.	0
+Who is the governor of Rhode Island in 2024?	2024 in Rhode Island	Dan McKee	1
+Who is the governor of Rhode Island in 2024?	2024 in Rhode Island	Gina Raimondo	0
+Who is the governor of Rhode Island in 2024?	2024 in Rhode Island	Lincoln Chafee	0
+Who is the governor of Rhode Island in 2024?	2024 in Rhode Island	Donald Carcieri	0
+Who is the governor of Rhode Island in 2024?	2024 in Rhode Island	Sheldon Whitehouse	0
+What information is available about Ashot Yedigaryan?	Ashot Yedigaryan	No content available.	1
+What information is available about Ashot Yedigaryan?	Ashot Yedigaryan	Ashot Yedigaryan is a famous musician.	0
+What information is available about Ashot Yedigaryan?	Ashot Yedigaryan	Ashot Yedigaryan was born in Armenia.	0
+What information is available about Ashot Yedigaryan?	Ashot Yedigaryan	There is no information provided about Ashot Yedigaryan.	1
+Who are some notable people with the surname Profar?	Profar	Juremi Profar, a Dutch-Curaçaoan baseball player.	1
+Who are some notable people with the surname Profar?	Profar	Jurickson Profar, a Curaçaoan baseball player.	1
+Who are some notable people with the surname Profar?	Profar	Profar is a type of fruit found in Curaçao.	0
+Who are some notable people with the surname Profar?	Profar	Profar is a popular dish in the Netherlands.	0
+Who are some notable people with the surname Profar?	Profar	Juremi Profar is a famous musician from Curaçao.	0
+What position did Tan Ruisong hold at the Aviation Industry Corporation of China?	Tan Ruisong	He was a general manager of the Aviation Industry Corporation of China.	0
+What position did Tan Ruisong hold at the Aviation Industry Corporation of China?	Tan Ruisong	He was a chairman and party branch secretary of the Aviation Industry Corporation of China.	1
+What position did Tan Ruisong hold at the Aviation Industry Corporation of China?	Tan Ruisong	He was a member of the 13th National Committee of the Chinese People's Political Consultative Conference.	0
+What position did Tan Ruisong hold at the Aviation Industry Corporation of China?	Tan Ruisong	He was a deputy general manager of Harbin Dong'an Automotive Engine Manufacturing Company.	0
+What led to the formation of the state of Jhalawar?	Jhala Madan Singh	Madan Singh was born to Madho Singh.	0
+What led to the formation of the state of Jhalawar?	Jhala Madan Singh	A treaty was signed between Madan Singh and the British Government.	1
+What led to the formation of the state of Jhalawar?	Jhala Madan Singh	Madan Singh maintained amicable relations with Maharao Raja Ram Singh II.	0
+What led to the formation of the state of Jhalawar?	Jhala Madan Singh	The British Government convinced Maharao Raja and Madan to reach a compromise.	1
+What led to the formation of the state of Jhalawar?	Jhala Madan Singh	Madan Singh was the Musahib-i-Ala of Kotah.	0
+What information is available about Saiyed Yahya?	Saiyed Yahya	No content available.	1
+What information is available about Saiyed Yahya?	Saiyed Yahya	Saiyed Yahya was a famous historical figure.	0
+What information is available about Saiyed Yahya?	Saiyed Yahya	Saiyed Yahya is known for his contributions to science.	0
+What information is available about Saiyed Yahya?	Saiyed Yahya	The page contains detailed information about Saiyed Yahya's life.	0
+What information is available about Saiyed Yahya?	Saiyed Yahya	No content is provided on the page about Saiyed Yahya.	1
+What is the content of Transectra Global Diamond Marketplace?	Transectra Global Diamond Marketplace	No content available.	1
+What is the content of Transectra Global Diamond Marketplace?	Transectra Global Diamond Marketplace	The marketplace offers a wide range of diamonds.	0
+What is the content of Transectra Global Diamond Marketplace?	Transectra Global Diamond Marketplace	It is a leading platform for diamond trading.	0
+What is the content of Transectra Global Diamond Marketplace?	Transectra Global Diamond Marketplace	Transectra Global Diamond Marketplace is known for its transparency and security.	0
+What position did Cui Baohua hold in the Sichuan Provincial Committee of the Chinese People's Political Consultative Conference?	Cui Baohua	Cui Baohua was the vice chairman of the Sichuan Provincial Committee of the Chinese People's Political Consultative Conference.	1
+What position did Cui Baohua hold in the Sichuan Provincial Committee of the Chinese People's Political Consultative Conference?	Cui Baohua	He was the acting mayor of Meishan.	0
+What position did Cui Baohua hold in the Sichuan Provincial Committee of the Chinese People's Political Consultative Conference?	Cui Baohua	Cui Baohua was the head of the United Front Work Department of the CCP Sichuan Provincial Committee.	0
+What position did Cui Baohua hold in the Sichuan Provincial Committee of the Chinese People's Political Consultative Conference?	Cui Baohua	He served as a representative of the 17th and 18th National Congress of the Chinese Communist Party.	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay in the same year at the Citra Awards?	Citra Award for Best Original Screenplay	Gina S. Noer	1
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay in the same year at the Citra Awards?	Citra Award for Best Original Screenplay	The Indonesian Film Festival	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay in the same year at the Citra Awards?	Citra Award for Best Original Screenplay	Cemara's Family	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay in the same year at the Citra Awards?	Citra Award for Best Original Screenplay	Two Blue Stripes	0
+Who was the first person to win both Best Original Screenplay and Best Adapted Screenplay in the same year at the Citra Awards?	Citra Award for Best Original Screenplay	Piala Citra untuk Penulis Skenario Asli Terbaik	0
+What position did Leslie Saxby play in rugby?	Leslie Saxby	Leslie Saxby was a centre three-quarter before switching to the back-row.	1
+What position did Leslie Saxby play in rugby?	Leslie Saxby	Leslie Saxby was a fullback throughout his career.	0
+What position did Leslie Saxby play in rugby?	Leslie Saxby	Leslie Saxby played as a fly-half for England.	0
+What position did Leslie Saxby play in rugby?	Leslie Saxby	Leslie Saxby started as a centre three-quarter and later played in the back-row.	1
+What position did Leslie Saxby play in rugby?	Leslie Saxby	Leslie Saxby was a prop forward for Gloucester.	0
+Who manages the Uzbekistan women's national futsal team?	Uzbekistan women's national futsal team	The Uzbekistan women's national futsal team is managed by the Uzbekistan Football Association (UFA).	1
+Who manages the Uzbekistan women's national futsal team?	Uzbekistan women's national futsal team	The Uzbekistan women's national futsal team is managed by FIFA.	0
+Who manages the Uzbekistan women's national futsal team?	Uzbekistan women's national futsal team	The Uzbekistan women's national futsal team is managed by the Asian Football Confederation.	0
+Who manages the Uzbekistan women's national futsal team?	Uzbekistan women's national futsal team	The Uzbekistan women's national futsal team is managed by the Uzbekistan Olympic Committee.	0
+What is the title of Arman Hovhannisyan's 2013 album?	Arman Hovhannisyan (singer)	Fantastica	0
+What is the title of Arman Hovhannisyan's 2013 album?	Arman Hovhannisyan (singer)	Sirelis	0
+What is the title of Arman Hovhannisyan's 2013 album?	Arman Hovhannisyan (singer)	Gitem	0
+What is the title of Arman Hovhannisyan's 2013 album?	Arman Hovhannisyan (singer)	Time	1
+What is the title of Arman Hovhannisyan's 2013 album?	Arman Hovhannisyan (singer)	Ser ev Hayraniq	0
+Who was convicted for the murder of Elizabeth Reiser?	Elizabeth Reiser murder	Matthew Vaca was convicted for the murder of Elizabeth Reiser.	1
+Who was convicted for the murder of Elizabeth Reiser?	Elizabeth Reiser murder	Brandi Hicks was convicted for the murder of Elizabeth Reiser.	0
+Who was convicted for the murder of Elizabeth Reiser?	Elizabeth Reiser murder	Jeff Mullinix was convicted for the murder of Elizabeth Reiser.	0
+Who was convicted for the murder of Elizabeth Reiser?	Elizabeth Reiser murder	Shelia Davis was convicted for the murder of Elizabeth Reiser.	0
+Who was convicted for the murder of Elizabeth Reiser?	Elizabeth Reiser murder	Elizabeth Reiser was convicted for the murder of Matthew Vaca.	0
+What are David Piwnica-Worms' research interests?	David Piwnica-Worms	He is interested in the function and regulation of the multidrug resistance P-glycoprotein family of transporters.	1
+What are David Piwnica-Worms' research interests?	David Piwnica-Worms	His research focuses on the development of innovative methods to visualize and measure biological processes in living organisms.	1
+What are David Piwnica-Worms' research interests?	David Piwnica-Worms	He studies the history of radiology and its impact on modern medicine.	0
+What are David Piwnica-Worms' research interests?	David Piwnica-Worms	His work involves genetically-encoded bioluminescent and radiotracer reporter systems.	1
+What are David Piwnica-Worms' research interests?	David Piwnica-Worms	He is primarily interested in the culinary arts and their intersection with biochemistry.	0
+What is the focus of the 2024 BWF World Junior Championships – girls' doubles event?	2024 BWF World Junior Championships – girls' doubles	The event focuses on the girls' doubles category in badminton.	1
+What is the focus of the 2024 BWF World Junior Championships – girls' doubles event?	2024 BWF World Junior Championships – girls' doubles	It is a mixed doubles badminton event.	0
+What is the focus of the 2024 BWF World Junior Championships – girls' doubles event?	2024 BWF World Junior Championships – girls' doubles	The event is part of the BWF World Senior Championships.	0
+What is the focus of the 2024 BWF World Junior Championships – girls' doubles event?	2024 BWF World Junior Championships – girls' doubles	The 2024 BWF World Junior Championships – girls' doubles is a tennis tournament.	0
+What is the focus of the 2024 BWF World Junior Championships – boys' doubles?	2024 BWF World Junior Championships – boys' doubles	The 2024 BWF World Junior Championships – boys' doubles focuses on junior male badminton players competing in doubles matches.	1
+What is the focus of the 2024 BWF World Junior Championships – boys' doubles?	2024 BWF World Junior Championships – boys' doubles	The 2024 BWF World Junior Championships – boys' doubles is a tennis tournament.	0
+What is the focus of the 2024 BWF World Junior Championships – boys' doubles?	2024 BWF World Junior Championships – boys' doubles	The 2024 BWF World Junior Championships – boys' doubles is an event for senior badminton players.	0
+What is the focus of the 2024 BWF World Junior Championships – boys' doubles?	2024 BWF World Junior Championships – boys' doubles	The 2024 BWF World Junior Championships – boys' doubles is a swimming competition.	0
+What is the significance of the Ngari Networking Project?	Ngari Networking Project	The Ngari Networking Project is a 500 kV transmission and substation initiative that commenced operations on December 4, 2020.	0
+What is the significance of the Ngari Networking Project?	Ngari Networking Project	It is the highest, most challenging, and most arduous 500 kV power transmission and substation project globally.	0
+What is the significance of the Ngari Networking Project?	Ngari Networking Project	The project concludes the era of isolated grid operation in the Ngari region, establishing a cohesive 500 kV power grid at the subnational level in mainland China.	1
+What is the significance of the Ngari Networking Project?	Ngari Networking Project	The project was completed in 2018.	0
+What is the significance of the Ngari Networking Project?	Ngari Networking Project	It is the first power transmission and transformation project in Tibet.	0
+Who directed the film Meera Memcha?	Meera Memcha	Mohendro directed the film Meera Memcha.	1
+Who directed the film Meera Memcha?	Meera Memcha	Suresh Hidang directed the film Meera Memcha.	0
+Who directed the film Meera Memcha?	Meera Memcha	Raju Nong directed the film Meera Memcha.	0
+Who directed the film Meera Memcha?	Meera Memcha	Binata Laishram directed the film Meera Memcha.	0
+Who directed the film Meera Memcha?	Meera Memcha	Kaiku Rajkumar directed the film Meera Memcha.	0
+What was the Left Bank Uprising?	Left-Bank Uprising	A rebellion of Cossacks dissatisfied with the Andrusov truce against the tsarist government.	1
+What was the Left Bank Uprising?	Left-Bank Uprising	A peaceful negotiation between the Cossacks and the Russian Tsardom.	0
+What was the Left Bank Uprising?	Left-Bank Uprising	An uprising led by Hetman Ivan Bryukhovetsky to free Cossacks from tsarist power.	1
+What was the Left Bank Uprising?	Left-Bank Uprising	A military alliance between the Cossacks and the Polish-Lithuanian Commonwealth.	0
+What was the Left Bank Uprising?	Left-Bank Uprising	A cultural festival celebrating Cossack traditions.	0
+When did the Banbridge Junction Railway line close?	Banbridge Junction Railway	The Banbridge Junction Railway line closed in the 1950s.	1
+When did the Banbridge Junction Railway line close?	Banbridge Junction Railway	The Banbridge Junction Railway line closed in 1859.	0
+When did the Banbridge Junction Railway line close?	Banbridge Junction Railway	The Banbridge Junction Railway line closed in 1887.	0
+When did the Banbridge Junction Railway line close?	Banbridge Junction Railway	The Banbridge Junction Railway line closed in 1955.	1
+When did the Banbridge Junction Railway line close?	Banbridge Junction Railway	The Banbridge Junction Railway line closed in 1900.	0
+What position does Cristian Licsandru play?	Cristian Licsandru	Cristian Licsandru is a Romanian professional footballer.	0
+What position does Cristian Licsandru play?	Cristian Licsandru	He plays as a midfielder or a centre-back.	1
+What position does Cristian Licsandru play?	Cristian Licsandru	Cristian Licsandru was born on 27 March 2003.	0
+What position does Cristian Licsandru play?	Cristian Licsandru	He plays for Liga I club Dinamo București.	0
+What position does Cristian Licsandru play?	Cristian Licsandru	Cristian Licsandru is a goalkeeper.	0
+What were some key issues addressed by the Women's Liberation Movement in the UK?	The Women's Liberation Movement in the United Kingdom	The Women's Liberation Movement in the UK focused on intersections between women's rights and issues like workers' rights, racism, and social justice.	1
+What were some key issues addressed by the Women's Liberation Movement in the UK?	The Women's Liberation Movement in the United Kingdom	The movement was primarily concerned with environmental conservation and animal rights.	0
+What were some key issues addressed by the Women's Liberation Movement in the UK?	The Women's Liberation Movement in the United Kingdom	Key issues included worker and domestic carer rights, reproductive rights, and violence against women.	1
+What were some key issues addressed by the Women's Liberation Movement in the UK?	The Women's Liberation Movement in the United Kingdom	The movement was solely focused on achieving equal pay for women.	0
+What were some key issues addressed by the Women's Liberation Movement in the UK?	The Women's Liberation Movement in the United Kingdom	The Women's Liberation Movement in the UK was involved in peace and anti-war activism, as well as mental health support.	1
+What is the Central Tibet Networking Project?	Central Tibet Networking Project	The Central Tibet Networking Project is a power supply initiative for the Lhasa to Nyingchi segment of the Sichuan–Tibet railway.	1
+What is the Central Tibet Networking Project?	Central Tibet Networking Project	It is a project that integrates nearly 80,000 individuals from Bomê County, Zayu County, and Mêdog County onto the primary grid.	1
+What is the Central Tibet Networking Project?	Central Tibet Networking Project	The project involves the construction of 16 new and expanded substations of 110kV and above.	1
+What is the Central Tibet Networking Project?	Central Tibet Networking Project	The Central Tibet Networking Project is a cave formed within the ice of a glacier.	0
+What is the Central Tibet Networking Project?	Central Tibet Networking Project	It was awarded the 2021 FIDIC Engineering Project Excellence Award.	1
+What role did Oľga Glosíková serve in the Federal Assembly of the Czech and Slovak Federative Republic?	Oľga Glosíková	She was a Deputy of the Federal Assembly from 1991 to 1992.	1
+What role did Oľga Glosíková serve in the Federal Assembly of the Czech and Slovak Federative Republic?	Oľga Glosíková	She was the President of the Federal Assembly from 1991 to 1992.	0
+What role did Oľga Glosíková serve in the Federal Assembly of the Czech and Slovak Federative Republic?	Oľga Glosíková	She served as a high school teacher in Svit.	0
+What role did Oľga Glosíková serve in the Federal Assembly of the Czech and Slovak Federative Republic?	Oľga Glosíková	She was the founding director of a museum of the Ruthenian culture in Prešov.	0
+What materials were used in the construction of the Juma Mosque in Balakən?	Juma Mosque (Balaken)	The mosque's building is constructed from river stones, while its minaret is made of baked bricks.	1
+What materials were used in the construction of the Juma Mosque in Balakən?	Juma Mosque (Balaken)	Lime and egg yolk were used in the construction.	1
+What materials were used in the construction of the Juma Mosque in Balakən?	Juma Mosque (Balaken)	The mosque is made entirely of wood.	0
+What materials were used in the construction of the Juma Mosque in Balakən?	Juma Mosque (Balaken)	The minaret is constructed from steel and glass.	0
+What materials were used in the construction of the Juma Mosque in Balakən?	Juma Mosque (Balaken)	The mosque's layout is rectangular both inside and outside.	0
+Who directed the film Keishamthong Thoibi?	Keishamthong Thoibi	O. Gautam	1
+Who directed the film Keishamthong Thoibi?	Keishamthong Thoibi	R.K. Chandrabal	0
+Who directed the film Keishamthong Thoibi?	Keishamthong Thoibi	Chana Lukhoi	0
+Who directed the film Keishamthong Thoibi?	Keishamthong Thoibi	Narendra Ningomba	0
+Who directed the film Keishamthong Thoibi?	Keishamthong Thoibi	Lairenjam Olen	0
+What is the Piast Dynasty?	User Piast Dynasty	The Piast Dynasty was the first historical ruling dynasty of Poland.	1
+What is the Piast Dynasty?	User Piast Dynasty	The Piast Dynasty was known for its architectural achievements in ancient Greece.	0
+What is the Piast Dynasty?	User Piast Dynasty	The Piast Dynasty was a prominent family in medieval England.	0
+What is the Piast Dynasty?	User Piast Dynasty	The Piast Dynasty played a significant role in the formation of the Polish state.	1
+What is the purpose of the list of constituencies of the Azad Jammu and Kashmir Provincial Assembly?	List of constituencies of the Azad Jammu and Kashmir Provincial Assembly	To provide a detailed enumeration of electoral divisions within Azad Jammu and Kashmir.	1
+What is the purpose of the list of constituencies of the Azad Jammu and Kashmir Provincial Assembly?	List of constituencies of the Azad Jammu and Kashmir Provincial Assembly	To list the members of the Azad Jammu and Kashmir Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Azad Jammu and Kashmir Provincial Assembly?	List of constituencies of the Azad Jammu and Kashmir Provincial Assembly	To describe the geographical boundaries of Azad Jammu and Kashmir.	0
+What is the purpose of the list of constituencies of the Azad Jammu and Kashmir Provincial Assembly?	List of constituencies of the Azad Jammu and Kashmir Provincial Assembly	To outline the legislative powers of the Azad Jammu and Kashmir Provincial Assembly.	0
+What is the purpose of the List of constituencies of the Gilgit Baltistan Provincial Assembly?	List of constituencies of the Gilgit Baltistan Provincial Assembly	To provide a detailed list of electoral constituencies in Gilgit Baltistan.	1
+What is the purpose of the List of constituencies of the Gilgit Baltistan Provincial Assembly?	List of constituencies of the Gilgit Baltistan Provincial Assembly	To describe the geographical features of Gilgit Baltistan.	0
+What is the purpose of the List of constituencies of the Gilgit Baltistan Provincial Assembly?	List of constituencies of the Gilgit Baltistan Provincial Assembly	To list the historical events in Gilgit Baltistan.	0
+What is the purpose of the List of constituencies of the Gilgit Baltistan Provincial Assembly?	List of constituencies of the Gilgit Baltistan Provincial Assembly	To outline the administrative divisions of Pakistan.	0
+What is the purpose of the list of constituencies of the Khyber Pakhtunkhwa Provincial Assembly?	List of constituencies of the Khyber Pakhtunkhwa Provincial Assembly	To provide a detailed enumeration of electoral districts within the Khyber Pakhtunkhwa Provincial Assembly.	1
+What is the purpose of the list of constituencies of the Khyber Pakhtunkhwa Provincial Assembly?	List of constituencies of the Khyber Pakhtunkhwa Provincial Assembly	To list the members of the Khyber Pakhtunkhwa Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Khyber Pakhtunkhwa Provincial Assembly?	List of constituencies of the Khyber Pakhtunkhwa Provincial Assembly	To describe the geographical boundaries of Khyber Pakhtunkhwa.	0
+What is the purpose of the list of constituencies of the Khyber Pakhtunkhwa Provincial Assembly?	List of constituencies of the Khyber Pakhtunkhwa Provincial Assembly	To outline the legislative powers of the Khyber Pakhtunkhwa Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Balochistan Provincial Assembly?	List of constituencies of the Balochistan Provincial Assembly	To provide a detailed enumeration of electoral districts in Balochistan.	1
+What is the purpose of the list of constituencies of the Balochistan Provincial Assembly?	List of constituencies of the Balochistan Provincial Assembly	To list the members of the Balochistan Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Balochistan Provincial Assembly?	List of constituencies of the Balochistan Provincial Assembly	To describe the geographical boundaries of Balochistan.	0
+What is the purpose of the list of constituencies of the Balochistan Provincial Assembly?	List of constituencies of the Balochistan Provincial Assembly	To outline the administrative divisions of Pakistan.	0
+What is the purpose of the list of constituencies of the Balochistan Provincial Assembly?	List of constituencies of the Balochistan Provincial Assembly	To offer a historical overview of Balochistan's political landscape.	0
+What is the main focus of Uswag Ilonggo?	Uswag Ilonggo	Uswag Ilonggo focuses on economic development, health, and education within the Western Visayas region.	1
+What is the main focus of Uswag Ilonggo?	Uswag Ilonggo	Uswag Ilonggo is a political organization that represents the Western Visayas region and the Ilonggo people.	0
+What is the main focus of Uswag Ilonggo?	Uswag Ilonggo	Uswag Ilonggo was established by Iloilo City Mayor Jerry Treñas in 2020.	0
+What is the main focus of Uswag Ilonggo?	Uswag Ilonggo	Uswag Ilonggo participated in the 2022 elections, winning a single seat in the 19th Congress.	0
+What is the purpose of the list of constituencies of the Sindh Provincial Assembly?	List of constituencies of the Sindh Provincial Assembly	To provide a detailed enumeration of electoral districts in Sindh for legislative elections.	1
+What is the purpose of the list of constituencies of the Sindh Provincial Assembly?	List of constituencies of the Sindh Provincial Assembly	To list the members of the Sindh Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Sindh Provincial Assembly?	List of constituencies of the Sindh Provincial Assembly	To describe the history of the Sindh Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Sindh Provincial Assembly?	List of constituencies of the Sindh Provincial Assembly	To outline the administrative divisions of Sindh province.	0
+What is the purpose of the list of constituencies of the Punjab Provincial Assembly?	List of constituencies of the Punjab Provincial Assembly	To provide a detailed enumeration of electoral districts within the Punjab Provincial Assembly.	1
+What is the purpose of the list of constituencies of the Punjab Provincial Assembly?	List of constituencies of the Punjab Provincial Assembly	To list the members of the Punjab Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Punjab Provincial Assembly?	List of constituencies of the Punjab Provincial Assembly	To describe the history of the Punjab Provincial Assembly.	0
+What is the purpose of the list of constituencies of the Punjab Provincial Assembly?	List of constituencies of the Punjab Provincial Assembly	To outline the legislative procedures of the Punjab Provincial Assembly.	0
+What achievements has Wermeson accomplished in his football career?	Wermeson	Wermeson became champion of the 2022 Campeonato Brasileiro Série D with América-RN.	1
+What achievements has Wermeson accomplished in his football career?	Wermeson	He was the top scorer in the Copa Paulista for São Caetano.	1
+What achievements has Wermeson accomplished in his football career?	Wermeson	Wermeson won the Campeonato Potiguar in 2023 with América de Natal.	1
+What achievements has Wermeson accomplished in his football career?	Wermeson	He played as a goalkeeper for União São João.	0
+What achievements has Wermeson accomplished in his football career?	Wermeson	Wermeson was hired by São Caetano in June 2024.	0
+Who is the president of the Nepal Triathlon Association?	Nepal Triathlon Association	Mr. Nilendra Raj Shrestha serves as the president of NTA.	1
+Who is the president of the Nepal Triathlon Association?	Nepal Triathlon Association	Team Nepal became champion in 2019 South Asian Games.	0
+Who is the president of the Nepal Triathlon Association?	Nepal Triathlon Association	NTA is affiliated to World Triathlon and Asian Triathlon.	0
+Who is the president of the Nepal Triathlon Association?	Nepal Triathlon Association	The president of NTA is Marisol Casado.	0
+Who is the president of the Nepal Triathlon Association?	Nepal Triathlon Association	NTA organized the Asia Triathlon Cup in Pokhara, Nepal.	0
+What was the purpose of the Rainbow Coalition in the Philippines?	Rainbow Coalition (Philippines)	The Rainbow Coalition was formed to solidify the House of Representatives and pass the legislative agenda of the president.	1
+What was the purpose of the Rainbow Coalition in the Philippines?	Rainbow Coalition (Philippines)	The Rainbow Coalition was a group of environmental activists advocating for climate change policies.	0
+What was the purpose of the Rainbow Coalition in the Philippines?	Rainbow Coalition (Philippines)	The Rainbow Coalition was a coalition of political parties in the Philippines led by Jose De Venecia.	1
+What was the purpose of the Rainbow Coalition in the Philippines?	Rainbow Coalition (Philippines)	The Rainbow Coalition aimed to abolish the House of Representatives in the Philippines.	0
+What was the purpose of the Rainbow Coalition in the Philippines?	Rainbow Coalition (Philippines)	The Rainbow Coalition was a multi-party coalition formed to support Vice President Joseph Estrada's presidential run.	0
+What is Noah Kudic known for?	Noah kudic	Noah Kudic is a renowned environmental scientist.	1
+What is Noah Kudic known for?	Noah kudic	He is known for his work on climate change and sustainable energy solutions.	1
+What is Noah Kudic known for?	Noah kudic	Noah Kudic is a famous musician.	0
+What is Noah Kudic known for?	Noah kudic	He has published several papers on renewable energy technologies.	1
+What is the significance of the Pavitra Mantra in Hinduism?	Pavitra Mantra	Pavitra Mantra is a Sanskrit Mantra chanted during Puja for purification.	1
+What is the significance of the Pavitra Mantra in Hinduism?	Pavitra Mantra	It is mentioned as the 12th verse in the 80th chapter of the Patalakhanda in the Padma Purana.	0
+What is the significance of the Pavitra Mantra in Hinduism?	Pavitra Mantra	The mantra is about the purification of inner and outer self.	1
+What is the significance of the Pavitra Mantra in Hinduism?	Pavitra Mantra	Pavitra Mantra is a mantra for wealth and prosperity.	0
+What is the significance of the Pavitra Mantra in Hinduism?	Pavitra Mantra	The mantra starts with the sacred letter Om which signifies the symbol of ultimate truth Brahman in Hinduism.	1
+Who hosted and narrated the VH1 special '100 Greatest Rock & Roll Songs'?	100 Greatest Rock & Roll Songs	Dylan McDermott	1
+Who hosted and narrated the VH1 special '100 Greatest Rock & Roll Songs'?	100 Greatest Rock & Roll Songs	Chuck Berry	0
+Who hosted and narrated the VH1 special '100 Greatest Rock & Roll Songs'?	100 Greatest Rock & Roll Songs	Jon Bon Jovi	0
+Who hosted and narrated the VH1 special '100 Greatest Rock & Roll Songs'?	100 Greatest Rock & Roll Songs	David Bowie	0
+Who hosted and narrated the VH1 special '100 Greatest Rock & Roll Songs'?	100 Greatest Rock & Roll Songs	Eric Clapton	0
+What is the primary role of the 17th Separate Mixed Poltavska Brigade?	17th Poltavska Brigade (Ukraine)	To protect public law and order, important state facilities, foreign diplomatic missions, and Ukrainian territorial integrity.	1
+What is the primary role of the 17th Separate Mixed Poltavska Brigade?	17th Poltavska Brigade (Ukraine)	To conduct naval operations in the Black Sea.	0
+What is the primary role of the 17th Separate Mixed Poltavska Brigade?	17th Poltavska Brigade (Ukraine)	To provide air support for the Ukrainian Air Force.	0
+What is the primary role of the 17th Separate Mixed Poltavska Brigade?	17th Poltavska Brigade (Ukraine)	To manage agricultural development in rural areas.	0
+What was the main holding of the Coleman v. Alabama case?	Coleman v. Alabama	Coleman v. Alabama was a case about property rights.	0
+What was the main holding of the Coleman v. Alabama case?	Coleman v. Alabama	The case determined that a probable-cause hearing is a critical stage that attaches a Sixth Amendment right-to-counsel.	1
+What was the main holding of the Coleman v. Alabama case?	Coleman v. Alabama	Coleman v. Alabama was a case about environmental law.	0
+What was the main holding of the Coleman v. Alabama case?	Coleman v. Alabama	The Supreme Court ruled that probable-cause hearings do not require legal counsel.	0
+What was the main holding of the Coleman v. Alabama case?	Coleman v. Alabama	The case involved a dispute over state tax laws.	0
+What type of music is 2princesesbarbudes known for?	2princesesbarbudes	2princesesbarbudes is known for minimalist pop music.	1
+What type of music is 2princesesbarbudes known for?	2princesesbarbudes	They are famous for heavy metal music.	0
+What type of music is 2princesesbarbudes known for?	2princesesbarbudes	The band is known for classical symphonies.	0
+What type of music is 2princesesbarbudes known for?	2princesesbarbudes	2princesesbarbudes is a Catalan band known for minimalist pop music created using toy instruments.	1
+What type of music is 2princesesbarbudes known for?	2princesesbarbudes	They are renowned for jazz and blues music.	0
+Who founded the Maḥmūdīyah Library?	Maḥmūdīyah Library	The Maḥmūdīyah Library was founded by Jamal al-Din al-Ustadar.	1
+Who founded the Maḥmūdīyah Library?	Maḥmūdīyah Library	The Maḥmūdīyah Library was established by the Mamluk Sultanate.	0
+Who founded the Maḥmūdīyah Library?	Maḥmūdīyah Library	The Maḥmūdīyah Library was founded in 1394-1395 CE.	0
+Who founded the Maḥmūdīyah Library?	Maḥmūdīyah Library	The Maḥmūdīyah Library was founded by a group of scholars.	0
+Who founded the Maḥmūdīyah Library?	Maḥmūdīyah Library	The Maḥmūdīyah Library was established in Cairo, Egypt.	0
+What was the main holding in Adams v. Illinois?	Adams v. Illinois	The right to counsel in preliminary hearings announced by Coleman v. Alabama was not to be applied retroactively.	1
+What was the main holding in Adams v. Illinois?	Adams v. Illinois	The Supreme Court ruled that all criminal procedure decisions should be applied retroactively.	0
+What was the main holding in Adams v. Illinois?	Adams v. Illinois	Adams v. Illinois established the right to a speedy trial.	0
+What was the main holding in Adams v. Illinois?	Adams v. Illinois	The case determined that the death penalty was unconstitutional.	0
+What was the main holding in Adams v. Illinois?	Adams v. Illinois	The Court announced a more concrete rule in Teague v. Lane.	0
+Who did Devesh Kant Singh defeat in the 2020 Bihar Legislative Assembly election?	Devesh Kant Singh	Nutan Devi of the Rashtriya Janata Dal	1
+Who did Devesh Kant Singh defeat in the 2020 Bihar Legislative Assembly election?	Devesh Kant Singh	Satyadeo Prasad Singh of RJD	0
+Who did Devesh Kant Singh defeat in the 2020 Bihar Legislative Assembly election?	Devesh Kant Singh	Bhumendra Narayan Singh	0
+Who did Devesh Kant Singh defeat in the 2020 Bihar Legislative Assembly election?	Devesh Kant Singh	He did not win the 2020 election	0
+What is the origin of the name Moravská Sázava?	Moravská Sázava	The name could be derived from the Proto-Slavic verb sadjati, meaning 'to sediment'.	1
+What is the origin of the name Moravská Sázava?	Moravská Sázava	The name is based on the Celtic word sathá, which meant 'grove' or 'forest'.	1
+What is the origin of the name Moravská Sázava?	Moravská Sázava	The name Moravská Sázava is derived from the Latin word 'saxum', meaning 'rock'.	0
+What is the origin of the name Moravská Sázava?	Moravská Sázava	The name is a combination of the words 'Morava' and 'Sázava', indicating its affiliation to the Morava River.	1
+What is the conservation status of Nomaua arborea?	Nomaua arborea	Nomaua arborea is listed as 'Data Deficient' under the New Zealand Threat Classification System.	1
+What is the conservation status of Nomaua arborea?	Nomaua arborea	Nomaua arborea is a species of spider endemic to New Zealand.	0
+What is the conservation status of Nomaua arborea?	Nomaua arborea	The male Nomaua arborea is recorded at 3.32mm in length.	0
+What is the conservation status of Nomaua arborea?	Nomaua arborea	Nomaua arborea is only known from Fiordland, New Zealand.	0
+What is the conservation status of Nomaua arborea?	Nomaua arborea	Nomaua arborea has a yellow brown carapace.	0
+Who founded the Council on Geostrategy?	Council on Geostrategy	The Council on Geostrategy was founded by James Rogers and Viktorija Starych-Samuolienė.	1
+Who founded the Council on Geostrategy?	Council on Geostrategy	It was founded by Lord Risby and Sir Tony Blair.	0
+Who founded the Council on Geostrategy?	Council on Geostrategy	The Council on Geostrategy was established by Boris Johnson and Liz Truss.	0
+Who founded the Council on Geostrategy?	Council on Geostrategy	James Rogers and Viktorija Starych-Samuolienė are the founders of the Council on Geostrategy.	1
+Who founded the Council on Geostrategy?	Council on Geostrategy	The organization was founded by Sir Michael Fallon and Alicia Kearns.	0
+What is Fabiola Trejo known for?	Fabiola Trejo	Fabiola Trejo is a Mexican social psychologist and researcher.	0
+What is Fabiola Trejo known for?	Fabiola Trejo	She is known for addressing social inequality, gender violence and the political power of sexual pleasure.	1
+What is Fabiola Trejo known for?	Fabiola Trejo	Trejo received her PhD in social psychology from the National Autonomous University of Mexico.	0
+What is Fabiola Trejo known for?	Fabiola Trejo	She was named as one of BBC's 100 Women in November 2023.	0
+What is Fabiola Trejo known for?	Fabiola Trejo	Trejo has given lectures and workshops on the need to break with the prevailing reproductive model of sexuality.	0
+Which rugby union team did Reginald Roberts play for?	Reginald Roberts	Reginald Roberts played for Coventry.	1
+Which rugby union team did Reginald Roberts play for?	Reginald Roberts	Reginald Roberts played for Huddersfield.	0
+Which rugby union team did Reginald Roberts play for?	Reginald Roberts	Reginald Roberts was a member of the Warwickshire representative side.	0
+Which rugby union team did Reginald Roberts play for?	Reginald Roberts	Reginald Roberts gained his solitary England cap in 1932.	0
+Which rugby union team did Reginald Roberts play for?	Reginald Roberts	Reginald Roberts was an England reserve on five occasions.	0
+What championship did Vojislav Lekić win in 2010?	Vojislav Lekić	Vojislav Lekić won the ETCC Super Production championship in 2010.	1
+What championship did Vojislav Lekić win in 2010?	Vojislav Lekić	He won the Formula 1 championship in 2010.	0
+What championship did Vojislav Lekić win in 2010?	Vojislav Lekić	Lekić became the champion in the ETCC Super Production in 2010.	1
+What championship did Vojislav Lekić win in 2010?	Vojislav Lekić	He was the winner of the Italian Renault Clio Cup in 2010.	0
+What championship did Vojislav Lekić win in 2010?	Vojislav Lekić	Vojislav Lekić won the Serbian national championship in 2010.	0
+What was Liminha's role in the 1951 Copa Rio Internacional?	Liminha (footballer, born 1930)	Liminha was a Brazilian professional footballer who played as a forward.	0
+What was Liminha's role in the 1951 Copa Rio Internacional?	Liminha (footballer, born 1930)	He was one of Palmeiras' main players and was decisive in winning the Copa Rio Internacional.	1
+What was Liminha's role in the 1951 Copa Rio Internacional?	Liminha (footballer, born 1930)	Liminha died of bronchopneumonia at the age of 55.	0
+What was Liminha's role in the 1951 Copa Rio Internacional?	Liminha (footballer, born 1930)	He was the top scorer in the Rio-São Paulo Tournament with 9 goals.	0
+What was Liminha's role in the 1951 Copa Rio Internacional?	Liminha (footballer, born 1930)	Liminha played for Portuguesa de Desportos in 1956.	0
+How did Arthur Vaughan Jones become an England international rugby player?	Arthur Vaughan Jones	He was selected by England on the basis of his army rugby career.	1
+How did Arthur Vaughan Jones become an England international rugby player?	Arthur Vaughan Jones	He was a native Welsh-speaker.	0
+How did Arthur Vaughan Jones become an England international rugby player?	Arthur Vaughan Jones	He attended the same class as Wales forward Jim Lang.	0
+How did Arthur Vaughan Jones become an England international rugby player?	Arthur Vaughan Jones	He gained three England caps as a wing-forward.	0
+How did Arthur Vaughan Jones become an England international rugby player?	Arthur Vaughan Jones	He participated in multiple Welsh trials.	0
+What information is available about Sanjaya Duwadi?	Sanjaya Duwadi	No content available.	1
+What information is available about Sanjaya Duwadi?	Sanjaya Duwadi	Sanjaya Duwadi is a famous author.	0
+What information is available about Sanjaya Duwadi?	Sanjaya Duwadi	Sanjaya Duwadi is known for his work in environmental science.	0
+What information is available about Sanjaya Duwadi?	Sanjaya Duwadi	There is detailed information about Sanjaya Duwadi's career.	0
+What information is available about Sanjaya Duwadi?	Sanjaya Duwadi	No content available about Sanjaya Duwadi.	1
+What position did Mirka Lukić Šarkanović hold on the SPS's list in the 2022 Serbian parliamentary election?	Mirka Lukić Šarkanović	She was in the forty-eighth position.	0
+What position did Mirka Lukić Šarkanović hold on the SPS's list in the 2022 Serbian parliamentary election?	Mirka Lukić Šarkanović	She was in the twenty-eighth position.	1
+What position did Mirka Lukić Šarkanović hold on the SPS's list in the 2022 Serbian parliamentary election?	Mirka Lukić Šarkanović	She was in the third position.	0
+What position did Mirka Lukić Šarkanović hold on the SPS's list in the 2022 Serbian parliamentary election?	Mirka Lukić Šarkanović	She was in the eighth position.	0
+What is Charles Nwodo Jr.'s role in XL Africa Group?	Charles Nwodo Jr.	He is the chairman and chief executive of XL Africa Group.	1
+What is Charles Nwodo Jr.'s role in XL Africa Group?	Charles Nwodo Jr.	He is a stockbroker at M&M Securities Company.	0
+What is Charles Nwodo Jr.'s role in XL Africa Group?	Charles Nwodo Jr.	He is the president of the Nsukka Professionals Association.	0
+What is Charles Nwodo Jr.'s role in XL Africa Group?	Charles Nwodo Jr.	He is a fellow of the Chartered Institute of Stockbrokers.	0
+Who were the key figures in the Battle of Jammu 1774?	Battle of Jammu 1774	The battle was led by Raja Ranjit Deo of Jammu.	1
+Who were the key figures in the Battle of Jammu 1774?	Battle of Jammu 1774	The Mughal Empire played a significant role in the battle.	0
+Who were the key figures in the Battle of Jammu 1774?	Battle of Jammu 1774	The battle was fought between the forces of Jammu and the Sikh Empire.	1
+Who were the key figures in the Battle of Jammu 1774?	Battle of Jammu 1774	Raja Ranjit Deo was defeated by the Sikh forces.	1
+Who were the key figures in the Battle of Jammu 1774?	Battle of Jammu 1774	The battle had no significant leaders involved.	0
+What is the purpose of the Capital Market Stabilization Fund?	Capital Market Stabilization Fund	To stabilize the security exchanges in Bangladesh.	1
+What is the purpose of the Capital Market Stabilization Fund?	Capital Market Stabilization Fund	To provide loans to small businesses.	0
+What is the purpose of the Capital Market Stabilization Fund?	Capital Market Stabilization Fund	To manage the country's foreign exchange reserves.	0
+What is the purpose of the Capital Market Stabilization Fund?	Capital Market Stabilization Fund	To stabilize the security exchanges under the Bangladesh Securities and Exchange Commission.	1
+What is the purpose of the Capital Market Stabilization Fund?	Capital Market Stabilization Fund	To fund infrastructure projects in Bangladesh.	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament?	1968 CONMEBOL Pre-Olympic Tournament final group	Brazil and Colombia	1
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament?	1968 CONMEBOL Pre-Olympic Tournament final group	Uruguay and Paraguay	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament?	1968 CONMEBOL Pre-Olympic Tournament final group	Colombia and Uruguay	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament?	1968 CONMEBOL Pre-Olympic Tournament final group	Brazil and Paraguay	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament?	1968 CONMEBOL Pre-Olympic Tournament final group	Colombia and Paraguay	0
+What position did Charles Webb play in rugby union?	Charles Webb (rugby union)	Charles Webb was a specialist second-row forward.	1
+What position did Charles Webb play in rugby union?	Charles Webb (rugby union)	Charles Webb was a fly-half.	0
+What position did Charles Webb play in rugby union?	Charles Webb (rugby union)	Charles Webb played as a fullback.	0
+What position did Charles Webb play in rugby union?	Charles Webb (rugby union)	Charles Webb was a scrum-half.	0
+What position did Charles Webb play in rugby union?	Charles Webb (rugby union)	Charles Webb was a winger.	0
+What was the main holding in White v. Maryland?	White v. Maryland	The arraignment is a critical stage in the criminal trial that attaches the Sixth Amendment right to counsel.	1
+What was the main holding in White v. Maryland?	White v. Maryland	White v. Maryland established the right to a speedy trial.	0
+What was the main holding in White v. Maryland?	White v. Maryland	The case determined that the death penalty is unconstitutional.	0
+What was the main holding in White v. Maryland?	White v. Maryland	White v. Maryland, 373 U.S. 59 (1963), was a United States Supreme Court case.	0
+What was the main holding in White v. Maryland?	White v. Maryland	The decision in White v. Maryland was about the right to free speech.	0
+What notable achievement did Malcolm Spence accomplish during the 2024 IIHF World U18 Championships?	Malcolm Spence (ice hockey)	He was named the tournament MVP.	0
+What notable achievement did Malcolm Spence accomplish during the 2024 IIHF World U18 Championships?	Malcolm Spence (ice hockey)	He scored a goal five seconds into a game, setting a record for the fastest goal to start a game in IIHF World U18 Championship history.	1
+What notable achievement did Malcolm Spence accomplish during the 2024 IIHF World U18 Championships?	Malcolm Spence (ice hockey)	He led the tournament in total points scored.	0
+What notable achievement did Malcolm Spence accomplish during the 2024 IIHF World U18 Championships?	Malcolm Spence (ice hockey)	He served as the team captain for Canada.	0
+What notable achievement did Malcolm Spence accomplish during the 2024 IIHF World U18 Championships?	Malcolm Spence (ice hockey)	He scored the game-winning overtime goal in the championship game.	0
+What is the conservation status of Tekelloides flavonotatus?	Tekelloides flavonotatus	Tekelloides flavonotatus is listed as 'Not Threatened' under the New Zealand Threat Classification System.	1
+What is the conservation status of Tekelloides flavonotatus?	Tekelloides flavonotatus	Tekelloides flavonotatus is an endangered species.	0
+What is the conservation status of Tekelloides flavonotatus?	Tekelloides flavonotatus	Tekelloides flavonotatus is a species of Cyatholipidae spider endemic to New Zealand.	0
+What is the conservation status of Tekelloides flavonotatus?	Tekelloides flavonotatus	This species is widespread in the North Island of New Zealand.	0
+What is the conservation status of Tekelloides flavonotatus?	Tekelloides flavonotatus	Tekelloides flavonotatus was described as Ariamnes flavo-notatus in 1891.	0
+What did the Supreme Court decide in Cook v. Hart?	Cook v. Hart	The Supreme Court decided that the Extradition Clause allows a state to kidnap a fugitive residing in another state and forcibly return them for a valid trial.	1
+What did the Supreme Court decide in Cook v. Hart?	Cook v. Hart	The Supreme Court ruled that states cannot extradite fugitives from other states without their consent.	0
+What did the Supreme Court decide in Cook v. Hart?	Cook v. Hart	The Supreme Court held that the Extradition Clause only applies to international extraditions.	0
+What did the Supreme Court decide in Cook v. Hart?	Cook v. Hart	The Supreme Court decided that the Extradition Clause allows for voluntary extradition between states.	0
+What is the primary focus of ISNA News?	ISNA News	ISNA News primarily focuses on international sports events.	0
+What is the primary focus of ISNA News?	ISNA News	ISNA News is dedicated to covering political news in Iran.	1
+What is the primary focus of ISNA News?	ISNA News	ISNA News provides comprehensive coverage of global financial markets.	0
+What is the primary focus of ISNA News?	ISNA News	ISNA News is known for its in-depth analysis of cultural events worldwide.	0
+What is the conservation status of Tekelloides australis?	Tekelloides australis	Tekelloides australis is listed as 'Not Threatened' under the New Zealand Threat Classification System.	1
+What is the conservation status of Tekelloides australis?	Tekelloides australis	Tekelloides australis is an endangered species.	0
+What is the conservation status of Tekelloides australis?	Tekelloides australis	Tekelloides australis is a species of Cyatholipidae spider endemic to New Zealand.	0
+What is the conservation status of Tekelloides australis?	Tekelloides australis	The conservation status of Tekelloides australis is 'Critically Endangered'.	0
+What is the conservation status of Tekelloides australis?	Tekelloides australis	Tekelloides australis is widespread in Stewart Island and the South Island of New Zealand.	0
+Who is Manon Reja Neer?	Manon Reja Neer	Manon Reja Neer is a Bangladeshi chess player.	1
+Who is Manon Reja Neer?	Manon Reja Neer	He became the youngest Bangladeshi International Master (IM) in October 2024.	0
+Who is Manon Reja Neer?	Manon Reja Neer	He is a famous cricket player from Bangladesh.	0
+Who is Manon Reja Neer?	Manon Reja Neer	Manon Reja Neer was born in 2010.	0
+Who is Manon Reja Neer?	Manon Reja Neer	He won the 48th National Chess Championship in July 2024.	0
+What is the primary responsibility of fish and wildlife management in Canada?	List of provincial and territorial fish and wildlife management agencies in Canada	Fish and wildlife management is primarily a provincial and territorial responsibility in Canada.	1
+What is the primary responsibility of fish and wildlife management in Canada?	List of provincial and territorial fish and wildlife management agencies in Canada	Fish and wildlife management is primarily a federal responsibility in Canada.	0
+What is the primary responsibility of fish and wildlife management in Canada?	List of provincial and territorial fish and wildlife management agencies in Canada	Fish and wildlife management is primarily a municipal responsibility in Canada.	0
+What is the primary responsibility of fish and wildlife management in Canada?	List of provincial and territorial fish and wildlife management agencies in Canada	Fish and wildlife management is primarily an international responsibility in Canada.	0
+What does the gules field in the first compartment of the Coat of arms of Michoacán symbolize?	Coat of arms of Michoacán	It symbolizes strength, victory, daring, and features the equestrian statue of D. José Ma. Morelos y Pavón.	1
+What does the gules field in the first compartment of the Coat of arms of Michoacán symbolize?	Coat of arms of Michoacán	It represents the three lordships into which Michoacán was divided before the Conquest.	0
+What does the gules field in the first compartment of the Coat of arms of Michoacán symbolize?	Coat of arms of Michoacán	It denotes the historical coats used by all successive regimes.	0
+What does the gules field in the first compartment of the Coat of arms of Michoacán symbolize?	Coat of arms of Michoacán	It is inspired by the monument of the capital, located in the civic square 'Morelos'.	1
+How many times was John Dicks capped for England?	John Dicks (rugby union)	John Dicks was capped eight times for England during the 1930s.	1
+How many times was John Dicks capped for England?	John Dicks (rugby union)	He was capped ten times for England.	0
+How many times was John Dicks capped for England?	John Dicks (rugby union)	John Dicks never played for England.	0
+How many times was John Dicks capped for England?	John Dicks (rugby union)	He was capped five times for England.	0
+What is the format of the 2024 Women's Premier Hockey League?	2024 Women's Premier Hockey League	The 2024 Premier Hockey League will follow the same format of the inaugural season.	1
+What is the format of the 2024 Women's Premier Hockey League?	2024 Women's Premier Hockey League	Teams will play in a double round-robin format during the Pool Stage, followed by two Classification Matches.	1
+What is the format of the 2024 Women's Premier Hockey League?	2024 Women's Premier Hockey League	The league will be held in a single round-robin format.	0
+What is the format of the 2024 Women's Premier Hockey League?	2024 Women's Premier Hockey League	The top two ranked teams will contest the final, while the bottom two ranked teams will play off for third place.	1
+What is the format of the 2024 Women's Premier Hockey League?	2024 Women's Premier Hockey League	The league will have a knockout format from the beginning.	0
+Who is the head coach of the 2024–25 Bryant Bulldogs men's basketball team?	2024–25 Bryant Bulldogs men's basketball team	Phil Martelli Jr.	1
+Who is the head coach of the 2024–25 Bryant Bulldogs men's basketball team?	2024–25 Bryant Bulldogs men's basketball team	The Bulldogs finished the 2023–24 season 20–13.	0
+Who is the head coach of the 2024–25 Bryant Bulldogs men's basketball team?	2024–25 Bryant Bulldogs men's basketball team	They play their home games at the Chace Athletic Center.	0
+Who is the head coach of the 2024–25 Bryant Bulldogs men's basketball team?	2024–25 Bryant Bulldogs men's basketball team	The team is part of the America East Conference.	0
+Who is the head coach of the 2024–25 Bryant Bulldogs men's basketball team?	2024–25 Bryant Bulldogs men's basketball team	Bryant University is located in Smithfield, Rhode Island.	0
+What role did Mark Rausenberger play in the CIA's operations in Afghanistan?	Mark Rausenberger	He was a key figure in the CIA’s early post-9/11 operations in Afghanistan.	1
+What role did Mark Rausenberger play in the CIA's operations in Afghanistan?	Mark Rausenberger	He was a Senior Treatment Non-Commission Officer in Somalia.	0
+What role did Mark Rausenberger play in the CIA's operations in Afghanistan?	Mark Rausenberger	He was part of Team Alpha, one of the first CIA units inserted behind enemy lines.	1
+What role did Mark Rausenberger play in the CIA's operations in Afghanistan?	Mark Rausenberger	He was a CIA Director.	0
+What role did Mark Rausenberger play in the CIA's operations in Afghanistan?	Mark Rausenberger	He was a medic in the U.S. Army.	0
+In which racing series did Mike Christopher Jr. compete from 2021 to 2022?	Mike Christopher Jr.	NASCAR Whelen Modified Tour	1
+In which racing series did Mike Christopher Jr. compete from 2021 to 2022?	Mike Christopher Jr.	Formula 1	0
+In which racing series did Mike Christopher Jr. compete from 2021 to 2022?	Mike Christopher Jr.	IndyCar Series	0
+In which racing series did Mike Christopher Jr. compete from 2021 to 2022?	Mike Christopher Jr.	World Series of Asphalt Stock Car Racing	0
+In which racing series did Mike Christopher Jr. compete from 2021 to 2022?	Mike Christopher Jr.	Modified Racing Series	0
+What is the conservation status of Tekella nemoralis?	Tekella nemoralis	Tekella nemoralis is listed as 'Not Threatened' under the New Zealand Threat Classification System.	1
+What is the conservation status of Tekella nemoralis?	Tekella nemoralis	Tekella nemoralis is an endangered species.	0
+What is the conservation status of Tekella nemoralis?	Tekella nemoralis	Tekella nemoralis is a critically endangered species.	0
+What is the conservation status of Tekella nemoralis?	Tekella nemoralis	Tekella nemoralis is a species of Cyatholipidae spider endemic to New Zealand.	0
+What is the conservation status of Tekella nemoralis?	Tekella nemoralis	Tekella nemoralis is widespread throughout New Zealand.	0
+Who won the 1920 Minnesota Attorney General election?	1920 Minnesota Attorney General election	Clifford L. Hilton, the Republican nominee and incumbent attorney general.	1
+Who won the 1920 Minnesota Attorney General election?	1920 Minnesota Attorney General election	Thomas V. Sullivan, the Independent candidate.	0
+Who won the 1920 Minnesota Attorney General election?	1920 Minnesota Attorney General election	Raymond A. McQuat, the Democratic nominee.	0
+Who won the 1920 Minnesota Attorney General election?	1920 Minnesota Attorney General election	The election was canceled and no one won.	0
+Which Premier League club is the most popular in South Korea?	Popularity of Premier League clubs	Manchester United is the most popular Premier League club in South Korea.	0
+Which Premier League club is the most popular in South Korea?	Popularity of Premier League clubs	Tottenham Hotspur is the most popular Premier League club in South Korea.	1
+Which Premier League club is the most popular in South Korea?	Popularity of Premier League clubs	Liverpool is the most popular Premier League club in South Korea.	0
+Which Premier League club is the most popular in South Korea?	Popularity of Premier League clubs	Chelsea is the most popular Premier League club in South Korea.	0
+Who won the 1918 Minnesota Attorney General election?	1918 Minnesota Attorney General election	Clifford L. Hilton	1
+Who won the 1918 Minnesota Attorney General election?	1918 Minnesota Attorney General election	Tom E. Davis	0
+Who won the 1918 Minnesota Attorney General election?	1918 Minnesota Attorney General election	Bjorn B. Gislason	0
+Who won the 1918 Minnesota Attorney General election?	1918 Minnesota Attorney General election	Lars Haug	0
+Who won the 1918 Minnesota Attorney General election?	1918 Minnesota Attorney General election	The election was not held in 1918	0
+What recognition did the album Big Up by Aswad receive?	Big Up (Aswad album)	Big Up is a studio album by British reggae band Aswad.	0
+What recognition did the album Big Up by Aswad receive?	Big Up (Aswad album)	The album was released in 1997 through Gut Records.	0
+What recognition did the album Big Up by Aswad receive?	Big Up (Aswad album)	The album was bestowed with a Grammy nomination in the category of Best Reggae Album.	1
+What recognition did the album Big Up by Aswad receive?	Big Up (Aswad album)	Allmusic praised the album for its dancehall rhythms and rich vocal harmonies.	0
+What recognition did the album Big Up by Aswad receive?	Big Up (Aswad album)	Big Up was nominated for a Grammy Award.	1
+What was Barney Evans' role in rugby?	Barney Evans	Barney Evans was an English international rugby union player.	1
+What was Barney Evans' role in rugby?	Barney Evans	He was a Royal Navy lieutenant commander.	0
+What was Barney Evans' role in rugby?	Barney Evans	Evans captained the Devonport Services and the Navy rugby sides.	1
+What was Barney Evans' role in rugby?	Barney Evans	He was capped five times as a prop for England.	1
+What was Barney Evans' role in rugby?	Barney Evans	Evans was a member of Hampshire's 1933 County Championship-winning team.	0
+Where is Tekella unisetosa found?	Tekella unisetosa	Tekella unisetosa is a species of Cyatholipidae spider endemic to New Zealand.	0
+Where is Tekella unisetosa found?	Tekella unisetosa	This species is only known from Fiordland, New Zealand.	1
+Where is Tekella unisetosa found?	Tekella unisetosa	The holotype is stored in Otago Museum.	0
+Where is Tekella unisetosa found?	Tekella unisetosa	This species was described in 1988 by Ray Forster.	0
+Where is Tekella unisetosa found?	Tekella unisetosa	Under the New Zealand Threat Classification System, this species is listed as 'Not Threatened'.	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament Group 2?	1968 CONMEBOL Pre-Olympic Tournament Group 2	Colombia and Uruguay	1
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament Group 2?	1968 CONMEBOL Pre-Olympic Tournament Group 2	Ecuador and Peru	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament Group 2?	1968 CONMEBOL Pre-Olympic Tournament Group 2	Colombia and Peru	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament Group 2?	1968 CONMEBOL Pre-Olympic Tournament Group 2	Uruguay and Ecuador	0
+Which teams advanced to the final group in the 1968 CONMEBOL Pre-Olympic Tournament Group 2?	1968 CONMEBOL Pre-Olympic Tournament Group 2	Peru and Colombia	0
+What is Ayodeji Ibrahim Balogun popularly known for?	Ayodeji Ibrahim Balogun	He is a Nigerian singer and songwriter known as Wizkid.	1
+What is Ayodeji Ibrahim Balogun popularly known for?	Ayodeji Ibrahim Balogun	He is a famous Nigerian actor.	0
+What is Ayodeji Ibrahim Balogun popularly known for?	Ayodeji Ibrahim Balogun	He is a renowned Nigerian chef.	0
+What is Ayodeji Ibrahim Balogun popularly known for?	Ayodeji Ibrahim Balogun	He is a Nigerian politician.	0
+Who are some notable people with the surname d'Herbois?	D'Herbois	Jean-Marie Collot d'Herbois, a French actor, writer and revolutionary.	1
+Who are some notable people with the surname d'Herbois?	D'Herbois	Liane Collot d'Herbois, a British painter.	1
+Who are some notable people with the surname d'Herbois?	D'Herbois	Napoleon Bonaparte, a French military leader.	0
+Who are some notable people with the surname d'Herbois?	D'Herbois	Marie Curie, a physicist and chemist.	0
+Who won the 1916 Minnesota Attorney General election?	1916 Minnesota Attorney General election	Lyndon A. Smith	1
+Who won the 1916 Minnesota Attorney General election?	1916 Minnesota Attorney General election	A Democratic nominee	0
+Who won the 1916 Minnesota Attorney General election?	1916 Minnesota Attorney General election	A third-party candidate	0
+Who won the 1916 Minnesota Attorney General election?	1916 Minnesota Attorney General election	The election was canceled	0
+When did Cameron Staples serve in the Connecticut House of Representatives?	Cameron Staples	Cameron Staples served from 1993 to 2011.	1
+When did Cameron Staples serve in the Connecticut House of Representatives?	Cameron Staples	He served in the Connecticut House of Representatives from 1993 to 2011.	1
+When did Cameron Staples serve in the Connecticut House of Representatives?	Cameron Staples	Cameron Staples was born on March 25, 1958.	0
+When did Cameron Staples serve in the Connecticut House of Representatives?	Cameron Staples	He served in the Connecticut House of Representatives from 1980 to 1990.	0
+When did Cameron Staples serve in the Connecticut House of Representatives?	Cameron Staples	Cameron Staples served in the Connecticut House of Representatives from 1993 to 2011.	1
+What significant event is associated with the discovery of Our Lady of the Most Holy Rosary of Iloilo?	Our Lady of the Most Holy Rosary of Iloilo	The statue was discovered during a battle against a Dutch force at Fuerte San Pedro.	1
+What significant event is associated with the discovery of Our Lady of the Most Holy Rosary of Iloilo?	Our Lady of the Most Holy Rosary of Iloilo	The statue was found during a peaceful procession in Iloilo City.	0
+What significant event is associated with the discovery of Our Lady of the Most Holy Rosary of Iloilo?	Our Lady of the Most Holy Rosary of Iloilo	It was discovered by Father Jeronimo de Arevalo in a church.	0
+What significant event is associated with the discovery of Our Lady of the Most Holy Rosary of Iloilo?	Our Lady of the Most Holy Rosary of Iloilo	The statue was found in the 20th century during a renovation of San Jose Church.	0
+What significant event is associated with the discovery of Our Lady of the Most Holy Rosary of Iloilo?	Our Lady of the Most Holy Rosary of Iloilo	The discovery coincided with the defenders' victory after three days of fighting.	1
+When did the Second Battle of Jabalia begin?	Second Battle of Jabalia	The Second Battle of Jabalia began on 5 October 2024.	1
+When did the Second Battle of Jabalia begin?	Second Battle of Jabalia	The Second Battle of Jabalia began on 8 November 2023.	0
+When did the Second Battle of Jabalia begin?	Second Battle of Jabalia	The Second Battle of Jabalia began on 31 May 2024.	0
+When did the Second Battle of Jabalia begin?	Second Battle of Jabalia	The Second Battle of Jabalia began on 5 October 2023.	0
+When did the Second Battle of Jabalia begin?	Second Battle of Jabalia	The Second Battle of Jabalia began on 1 January 2024.	0
+Who won the 1914 Minnesota Attorney General election?	1914 Minnesota Attorney General election	Lyndon A. Smith, the Republican nominee and incumbent attorney general.	1
+Who won the 1914 Minnesota Attorney General election?	1914 Minnesota Attorney General election	Neil Cronin, the Democratic nominee.	0
+Who won the 1914 Minnesota Attorney General election?	1914 Minnesota Attorney General election	August V. Rieke, the Progressive nominee.	0
+Who won the 1914 Minnesota Attorney General election?	1914 Minnesota Attorney General election	The election was canceled and no one won.	0
+Who won the 1914 Minnesota Attorney General election?	1914 Minnesota Attorney General election	Lyndon B. Johnson, the future U.S. President.	0
+What is the conservation status of Tekella lineata?	Tekella lineata	Tekella lineata is listed as 'Not Threatened' under the New Zealand Threat Classification System.	1
+What is the conservation status of Tekella lineata?	Tekella lineata	Tekella lineata is considered endangered.	0
+What is the conservation status of Tekella lineata?	Tekella lineata	Tekella lineata is a species of spider endemic to Australia.	0
+What is the conservation status of Tekella lineata?	Tekella lineata	Tekella lineata is listed as 'Critically Endangered' under the New Zealand Threat Classification System.	0
+What is the conservation status of Tekella lineata?	Tekella lineata	Tekella lineata is only known from the South Island of New Zealand.	0
+What information is available about Andrii Palekha?	Andrii Palekha	No content available.	1
+What information is available about Andrii Palekha?	Andrii Palekha	Andrii Palekha is a famous scientist.	0
+What information is available about Andrii Palekha?	Andrii Palekha	There is detailed information about Andrii Palekha's career.	0
+What information is available about Andrii Palekha?	Andrii Palekha	Andrii Palekha is known for his contributions to technology.	0
+What was notable about the Vauxhall Epic?	Vauxhall Epic	The Vauxhall Epic was a compact car produced by Vauxhall Motors.	0
+What was notable about the Vauxhall Epic?	Vauxhall Epic	It was known for its innovative design and fuel efficiency.	1
+What was notable about the Vauxhall Epic?	Vauxhall Epic	The Epic featured a 1.3-liter engine and was available in both sedan and hatchback models.	0
+What was notable about the Vauxhall Epic?	Vauxhall Epic	Production ceased in 1972 due to increasing competition.	0
+What was notable about the Vauxhall Epic?	Vauxhall Epic	The Vauxhall Epic was a luxury sports car with a V8 engine.	0

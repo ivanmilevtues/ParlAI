@@ -260,7 +260,6 @@ def eval_model(opt):
             'You should use --datatype train:evalmode if you want to evaluate on '
             'the training set.'
         )
-
     # load model and possibly print opt
     agent = create_agent(opt, requireModelExists=True)
     agent.opt.log()

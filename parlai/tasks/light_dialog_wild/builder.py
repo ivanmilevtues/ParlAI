@@ -389,7 +389,6 @@ def write_alldata(opt, chats, dpath, ltype, split):
         if opt['light_use_unseen_test']:
             setting = chat['location']['name'].lower()
             if setting not in unseen:
-                #   import pdb; pdb.set_trace()
                 write_dialog(opt, fw_tst, chat, ltype, split)
         else:
             write_dialog(opt, fw_tst, chat, ltype, split)

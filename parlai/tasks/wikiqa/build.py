@@ -7,6 +7,7 @@
 
 import parlai.core.build_data as build_data
 import os
+import json
 from parlai.core.build_data import DownloadableFile
 from parlai.utils.io import PathManager
 
@@ -61,16 +62,50 @@ def build(opt):
         # Download the data.
         for downloadable_file in RESOURCES:
             downloadable_file.download_file(dpath)
+        import shutil
 
         dpext = os.path.join(dpath, 'WikiQACorpus')
+        generate_from_json('/local/home/imilev/agent-tool-testing/src/wikidata_test/labeled_data_filtered.json')
+        shutil.copy('/local/home/imilev/ParlAI/custom_questions.tsv', os.path.join(dpext, 'WikiQA-custom.tsv'))
+        shutil.copy('/local/home/imilev/ParlAI/custom_questions.txt', os.path.join(dpext, 'WikiQA-custom.txt'))
+        shutil.copy('/local/home/imilev/ParlAI/custom_questions.ref', os.path.join(dpext, 'WikiQA-custom.ref'))
+
         create_fb_format(dpath, 'train', os.path.join(dpext, 'WikiQA-train.tsv'))
         create_fb_format(dpath, 'valid', os.path.join(dpext, 'WikiQA-dev.tsv'))
         create_fb_format(dpath, 'test', os.path.join(dpext, 'WikiQA-test.tsv'))
-        create_fb_format(
-            dpath, 'train-filtered', os.path.join(dpext, 'WikiQA-train.tsv')
-        )
+        create_fb_format(dpath, 'test-custom', os.path.join(dpext, 'WikiQA-custom.tsv'))
+        create_fb_format(dpath, 'train-filtered', os.path.join(dpext, 'WikiQA-train.tsv'))
         create_fb_format(dpath, 'valid-filtered', os.path.join(dpext, 'WikiQA-dev.tsv'))
         create_fb_format(dpath, 'test-filtered', os.path.join(dpext, 'WikiQA-test.tsv'))
 
         # Mark the data as built.
         build_data.mark_done(dpath, version_string=version)
+
+
+def generate_from_json(json_file):
+    import csv
+    with open(json_file, 'r') as f:
+        data = json.loads(f.read())
+    # generate 3 files: .tsv, .txt and .ref
+
+    with open('./custom_questions.tsv', 'w', encoding='utf8', newline='') as tsv_file:
+        tsv_writer = csv.writer(tsv_file, delimiter='\t', lineterminator='\n')
+        tsv_writer.writerow(['QuestionID', 'Question', 'DocumentID', 'DocumentTitle', 'SentenceID', 'Sentence', 'Label'])
+        for entry in data:
+            tsv_writer.writerow([entry['question_id'], entry['question'], entry['document_id'], 
+                                 entry['document_title'], entry['sentence_id'], entry['sentence'], 1 if entry['label'] else 0])
+
+    with open('./custom_questions.txt', 'w', encoding='utf8', newline='') as tsv_file:
+        tsv_writer = csv.writer(tsv_file, delimiter='\t', lineterminator='\n')
+        for entry in data:
+            tsv_writer.writerow([entry['question'], entry['sentence'], 1 if entry['label'] else 0])
+
+
+    with open('./custom_questions.ref', 'w', encoding='utf8', newline='') as tsv_file:
+        tsv_writer = csv.writer(tsv_file, delimiter=' ', lineterminator='\n')
+        for entry in data:
+            tsv_writer.writerow([
+                int(entry['question_id'].split('Q')[-1]),
+                0,
+                int(entry['sentence_id'].split('-')[-1]),
+                1 if entry['label'] else 0])

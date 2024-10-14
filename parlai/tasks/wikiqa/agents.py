@@ -15,6 +15,8 @@ def _path(opt, filtered):
     # Build the data if it doesn't exist.
     build(opt)
     dt = opt['datatype'].split(':')[0]
+    if dt == 'test':
+        return os.path.join(opt['datapath'], 'WikiQA', 'test-custom.txt')
     return os.path.join(opt['datapath'], 'WikiQA', dt + filtered + '.txt')
 
 
